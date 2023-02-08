@@ -169,7 +169,7 @@ text-transform: capitalize;
 /* start of landing style */
 .landing {
     height: calc(100vh - 64px);
-    background-image: url(./images/mountain.jpg);
+    background-image: url(../images/mountain.jpg);
     /* background-repeat: no-repeat; */
     background-size:cover;
     position: relative;
