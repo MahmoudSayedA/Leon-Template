@@ -1,6 +1,6 @@
 # HTML-CSS-Template-one
 - This repo contains a template responsive web page of html and css
-- [Design preview]()
+- [Design preview](https://mahmoudsayeda.github.io/HTML-CSS-Template-one/)
 
 
 ### copy right
