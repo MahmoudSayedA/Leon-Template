@@ -1,6 +1,6 @@
-# HTML-CSS-Template-one
+# Leon Template
 - This repo contains a template responsive web page of html and css
-- [Design preview](https://mahmoudsayeda.github.io/HTML-CSS-Template-one/)
+- [Design preview](https://mahmoudsayeda.github.io/Leon-Template/)
 
 
 ### copy right
