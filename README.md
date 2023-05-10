@@ -1,6 +1,17 @@
 # Leon Template
-- This repo contains a template responsive web page of html and css
-- [Design preview](https://mahmoudsayeda.github.io/Leon-Template/)
+
+This is a simple HTML/CSS template designed to showcase personal portfolios, creative agencies, and small businesses.
+The template features a full-screen hero header, smooth animations, a working contact form, and a clean and elegant design.
+
+## Design Preview
+
+You can preview the template's design at this [link](https://mahmoudsayeda.github.io/Leon-Template/)
+
+## Technologies Used
+
+The template was developed using HTML and CSS only.
+It is fully responsive and optimized for mobile devices.
+
 
 
 ### copy right
